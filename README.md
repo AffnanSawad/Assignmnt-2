@@ -1,4 +1,4 @@
-LIVE LINK : https://affnansawad.github.io/Assignmnt-2/
+LIVE LINK : [https://affnansawad.github.io/Assignmnt-2/](https://affnansawad.github.io/Sandwip-Travel-Agency-1.0/)
 
 Project Name: Sandwip Travel Agency-1.0
 
